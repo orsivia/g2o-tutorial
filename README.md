@@ -1,7 +1,7 @@
 # g2o-tutorial
 g2o simple 3D and 1D optimization
 
-TEST: run following commands:
+TEST: run following commands
 	
 	cd src/
 	mkdir build
