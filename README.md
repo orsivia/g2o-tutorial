@@ -13,7 +13,6 @@ TEST: run following commands:
 	./3d_optimization
 
 Change obervations:
-	
 	Modify 1d_optimize.cpp or 3d_optimize.cpp in src/
 	
 
